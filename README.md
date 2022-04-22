@@ -1,7 +1,8 @@
 ### Hi there 👋
 I'm Fullstack developer
-- databases: Mongodb, Postgres,MSSQL,DyanmoDB,Redis... 
+- language: C++, C#, Javascript, Typescript,Python
+- databases: Oracle, MSSQL, Mongodb, Postgres,MSSQL,DyanmoDB,Redis... 
 - FrontEnd : React,Vue,Flutter
 - Backend : Nestjs,FastApi,Django
 - Devops: AWS, GPC, Docker🐳
-- Misc : Firebase, Elasticsearch
+- Misc : Firebase, Elasticsearch, Automation Test
