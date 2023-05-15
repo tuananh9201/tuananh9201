@@ -5,4 +5,4 @@ I'm Fullstack developer
 - FrontEnd : React,Vue,Flutter
 - Backend : Nodejs,Nestjs,FastApi,Django
 - Devops: Kubernetes, AWS, GPC, Docker🐳
-- Misc : Firebase, Elasticsearch, rabbitMQ,Kafka, Hadoop
+- Misc : Firebase, Elasticsearch, rabbitMQ,Kafka, Nginx, Treafix
