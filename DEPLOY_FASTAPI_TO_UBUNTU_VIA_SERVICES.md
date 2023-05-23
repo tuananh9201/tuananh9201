@@ -7,7 +7,8 @@ sudo vim /etc/systemd/system/fastapi.service
 ```
 [Unit]
 Description=Simple Fastapi web server
-
+After=network.target
+Wants=docker.service
 [Service]
 Restart=always
 WorkingDirectory=/some/path
@@ -19,7 +20,7 @@ WantedBy=default.target
 ```
 ### 3. enable service
 ```
-sudo sytemctl enable fastapi.service
+sudo systemctl enable fastapi.service
 ```
 ### 4. start service
 ```
